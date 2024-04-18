@@ -1,0 +1,11 @@
+Car
+Apple
+Orange
+Bird
+Tea
+Foot
+Ball
+Play
+Toy
+1
+0

@@ -1,0 +1,7 @@
+Car
+Apple
+Orange
+Bird
+Tea
+Foot
+Ball
